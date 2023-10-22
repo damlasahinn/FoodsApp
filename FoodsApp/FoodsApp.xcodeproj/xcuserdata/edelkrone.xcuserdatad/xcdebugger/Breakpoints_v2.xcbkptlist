@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C359C719-1C82-476E-97FB-C1A876DBE12A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBF53336-18AB-4953-B76C-E516EB97DB1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/data/repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "yemekleriYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBF53336-18AB-4953-B76C-E516EB97DB1B - e88c68d07904bd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.yemekleriYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "DBF53336-18AB-4953-B76C-E516EB97DB1B - e88c68d07904bd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.yemekleriYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "DBF53336-18AB-4953-B76C-E516EB97DB1B - e88c68d07904bd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.yemekleriYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "DBF53336-18AB-4953-B76C-E516EB97DB1B - e88c68d07904bd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.yemekleriYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "327">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7086A9FD-24CC-472F-BB7E-15542908201F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/ui/views/Anasayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C986168-C3D1-4C03-8140-59B8E0232AAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/ui/views/Anasayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C986168-C3D1-4C03-8140-59B8E0232AAD - 3edf2777ab14efb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodsApp.Anasayfa.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/ui/views/Anasayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2211">
+               </Location>
+               <Location
+                  uuid = "3C986168-C3D1-4C03-8140-59B8E0232AAD - 3edf2777ab14efb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodsApp.Anasayfa.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/ui/views/Anasayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "234">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26E30451-3D79-4163-8AFF-6376E782A0C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/ui/views/YemekKayit.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26E30451-3D79-4163-8AFF-6376E782A0C7 - 732c8c7564583ef5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodsApp.YemekKayit.viewDidLoad() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/ui/views/YemekKayit.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "26E30451-3D79-4163-8AFF-6376E782A0C7 - 732c8c7564583ef5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodsApp.YemekKayit.viewDidLoad() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/ui/views/YemekKayit.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48171484-6B91-4AEE-8EF7-AE4833823FB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/ui/tableview/YemeklerHucre.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "006CAC0E-F108-4762-BA30-7B23E3C254B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/ui/views/Sepet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32CD6820-F63B-4D2E-B6DC-460D5341A599"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/data/repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "sepetiYukle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EECDD1EB-0F8C-407D-8E9C-7F1FDD743309"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/data/repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "sepetiYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EECDD1EB-0F8C-407D-8E9C-7F1FDD743309 - 4e12a1fe1746d352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.sepetiYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "382">
+               </Location>
+               <Location
+                  uuid = "EECDD1EB-0F8C-407D-8E9C-7F1FDD743309 - 4e12a1fe1746d352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.sepetiYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "212B03A8-FFEE-4BCD-AC51-CB686049F63C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/data/repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "sepetiYukle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "212B03A8-FFEE-4BCD-AC51-CB686049F63C - 4e12a1fe1746d1de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.sepetiYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1764">
+               </Location>
+               <Location
+                  uuid = "212B03A8-FFEE-4BCD-AC51-CB686049F63C - 4e12a1fe1746d19c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in FoodsApp.YemeklerDaoRepository.sepetiYukle() -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/data/repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1449">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C0A7159-A9C5-41EA-BAB2-FFC0BAFCD029"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodsApp/ui/viewmodel/SepetViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "sepetiTemizle(kullanici_adi:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C0A7159-A9C5-41EA-BAB2-FFC0BAFCD029 - 258fcfdb923debc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodsApp.SepetViewModel.sepetiTemizle(kullanici_adi: Swift.String) -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/ui/viewmodel/SepetViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "8C0A7159-A9C5-41EA-BAB2-FFC0BAFCD029 - 453833c9c536c831"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;FoodsApp.SepetYemekler&gt;) -&gt; () in FoodsApp.SepetViewModel.sepetiTemizle(kullanici_adi: Swift.String) -&gt; ()"
+                  moduleName = "FoodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edelkrone/Desktop/TechCareer/FoodsApp/FoodsApp/ui/viewmodel/SepetViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
